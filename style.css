@@ -1,0 +1,66 @@
+body{
+    background-size: cover;
+}
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+#Mar{
+    font-size: 20px;
+    color: black;
+}
+#B{
+    color: red;
+}
+#status, #no_object{
+font-size: 18px;
+}
+canvas{
+    border: 5px dashed blue;
+    border-radius: 10px;
+}
+label, input{
+    font-size: 15px;
+    width: 320px;
+    color: black;
+}
+.Co{
+    margin-left: 1000px;
+}
+.Co1{
+    margin-left: 1200px;
+}
+ol{
+    font-size: 20px;
+    margin-left: 150px;
+    text-align: left;
+}
+.ol1{
+    margin-top: 80px;
+    margin-left: 300px;
+    top: 0;
+    position: absolute;
+    width: 190px;
+    text-align: left;
+}
+.ol2{
+    margin-top: 80px;
+    margin-left: 450px;
+    top: 0;
+    position: absolute;
+    width: 200px;
+    text-align: left;
+}
+.ol3{
+    margin-top: 80px;
+    margin-left: 600px;
+    top: 0;
+    position: absolute;
+    width: 200px;
+    text-align: left;
+}
+#Body{
+    background-color: blueviolet;
+    color: cyan;
+}
